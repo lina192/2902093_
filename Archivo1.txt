@@ -2,3 +2,6 @@ JavaScript
 
 
 what is javascript?
+
+javaScript is a programming language that developers use to make interactive web pages. From updating social media feeds 
+to displaying animations and interactive maps, JavaScript functions can improve a website's user experience.
