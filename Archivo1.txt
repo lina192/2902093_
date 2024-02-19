@@ -8,3 +8,6 @@ to displaying animations and interactive maps, JavaScript functions can improve 
 
 JavaScript is a high-level, dynamic, interpreted language. It is defined as object-oriented, prototype-based, imperative, 
 and weakly typed.
+
+Along with HTML and CSS, it is one of the three essential technologies in global web production: most websites 
+use it and it is compatible with all modern browsers without the need for plug-ins. JavaScript has an API to work with text, arrays, dates and regular expressions
